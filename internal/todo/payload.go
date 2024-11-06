@@ -1,4 +1,6 @@
-package internal
+package todo
+
+
 
 
 type Todo struct{
@@ -6,3 +8,4 @@ type Todo struct{
 	Title string
 	Body string
 }
+
